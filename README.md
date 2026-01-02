@@ -19,7 +19,7 @@ A simple RESTful API built with **Node.js** and **Express.js** to manage a books
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/bookstore-rest-api.git](https://github.com/YOUR-USERNAME/bookstore-rest-api.git)
+    git clone [https://github.com/m2rtyaman/bookstore-rest-api.git](https://github.com/m2rtyaman/bookstore-rest-api.git)
     ```
 
 2.  **Install dependencies:**
